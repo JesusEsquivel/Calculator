@@ -9,7 +9,6 @@ const Screen = (props) => {
                 <ScreenRow value={props.answer} />
             </div>
         );
-    
 }
 
 Screen.propTypes = {
