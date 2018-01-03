@@ -1,2 +1,3 @@
 # Calculator
-Calculator with FIzz-Buzz
+Calculator with Fizz-Buzz
+Fizz-Buzz will be logged in the console 
