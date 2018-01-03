@@ -67,7 +67,6 @@ class Frame extends Component{
             }
             default: {
                 this.setState({question: this.state.question += value})
-
                 break;
             }
         }
